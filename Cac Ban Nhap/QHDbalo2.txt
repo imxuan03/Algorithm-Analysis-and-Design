@@ -1,0 +1,5 @@
+10
+2 60 3 Apple
+5 100 2 Orange
+4 120 4 Banana
+8 240 1 Pin
